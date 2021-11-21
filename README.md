@@ -1,6 +1,6 @@
 # GNUBoy SDL2 Port For Termux
 
-SDL2-GNUBoy-Termux are the [SDL2-GNUboy](https://github.com/AlexOberhofer/SDL2-GNUBoy) compilation files adapted for easy complication in Termux.
+SDL2-GNUBoy-Termux are the [SDL2-GNUboy](https://github.com/AlexOberhofer/SDL2-GNUBoy) compilation files adapted for easy Compilation in Termux.
 
 A Multiplatform Gameboy Emulator. Free Software.
 
