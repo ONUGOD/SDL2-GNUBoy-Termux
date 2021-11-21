@@ -8,8 +8,6 @@ A Multiplatform Gameboy Emulator. Free Software.
 
 GNUBoy is a cool, old piece of software. This fork focuses on a multiplatform SDL 2 port. Hopefully this codebase can be helpful to someone in the future or someone interested in learning about C, SDL, or emulator development.
 
-Fork or contribute! Based on GNUBoy and licensed under GNU GPLv2
-
 # Building
 
 Install packages needed to compile and dependencies:
