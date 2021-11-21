@@ -16,7 +16,7 @@ Install packages needed to compile and dependencies:
 
 ```
 
-$ pkg i clang make sdl2 -y
+$ pkg up x11-repo clang make git -y && pkg i sdl2 -y
 
 ```
 
