@@ -60,3 +60,10 @@ $ sdl2gnuboy ./rom
 
 ```
 
+Uninstall:
+
+```
+$ chmod +x remove && ./remove
+```
+
+
