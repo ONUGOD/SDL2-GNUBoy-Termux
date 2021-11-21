@@ -32,7 +32,7 @@ Enter project directory:
 
 ```
 
-$ cd sdl2-gnuboy-termux
+$ cd SDL2-GNUBoy-Termux
 
 ```
 
